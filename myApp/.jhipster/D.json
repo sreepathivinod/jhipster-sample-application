@@ -1,0 +1,17 @@
+{
+  "name": "D",
+  "fields": [],
+  "relationships": [],
+  "changelogDate": "20200922123956",
+  "entityTableName": "d",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "jhipsterSampleApplication",
+  "applications": ["myApp"],
+  "microserviceName": "jhipsterSampleApplication"
+}
